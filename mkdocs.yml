@@ -5,9 +5,8 @@ site_description: Master in Design for Emergent Futures
 site_author: Diego Rey Sun Han
 copyright: Copyleft 2026 "Diego Rey Sun Han" - GNU Free Documentation License
 repo_name: "Name : Github Repo"
-site_url: https://fablabbcn.Diegoreysunhan.io/diego-reysunhan
-/
-repo_url: https://Diegoreysunhan.com/fablabbcn/diego-reysunhan
+site_url: https://diegoreysunhan.github.io/diego-reysunhan
+repo_url: https://github.com/diegoreysunhan/diego-reysunhan
 
 nav:
   - Home: index.md
