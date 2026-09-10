@@ -1,6 +1,6 @@
 # Sobre mi
 
-![](../images/hola/hola.png)
+![](../images/hola/diego.jpeg)
 
-Soy Mathias Rodriguez
+Soy Diego Rey Sun Han
 
