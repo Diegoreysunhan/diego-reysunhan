@@ -40,13 +40,21 @@ El commit que se queda cargando. Como conté arriba, era la caja del mensaje vac
 
 La imagen que no se ve. Escribí lo que creía que era la instrucción correcta para insertar una foto y en la web no aparecía nada. El problema estaba en la ruta: mi archivo y mi carpeta de imágenes estaban en el mismo lugar, así que el «../» que había puesto mandaba la búsqueda a un directorio que no existía.
 
-El detalle que más me cuesta. Aquí cada espacio, cada corchete y cada llave cuentan. Una coma de más y la página no se genera. Viniendo de un campo donde una idea mal expresada igual se entiende, acostumbrarme a que la máquina no interpreta ni perdona ha sido el cambio mental más difícil. Cuando algo no funciona, casi siempre es un carácter, no un concepto.
+![corregirfoto](../images/MT01/fotoscorregir.png){ width="600" style="display: block; margin: auto" }
+
+El detalle que más me cuesta. Aquí cada espacio, cada corchete y cada llave cuentan. Una coma de más y la página no se genera. 
+
+![corregirfoto](../images/MT01/simbolos.png){ width="600" style="display: block; margin: auto" }
 
 ## **Cómo aprendí**
 No lo saqué adelante solo, y creo que vale la pena decirlo:
+
 •	Las sesiones con Mathias. Grabé las conversaciones para poder volver sobre ellas, porque en el momento asentía sin entender del todo. 
+
 •	Volver a escuchar las clases. La segunda pasada rindió mucho más que la primera.
+
 •	Tutoriales en video. Sobre todo para la instalación, donde ver a alguien hacerlo vale más que leerlo. Igual no funcionó porque no pude hacerlo solo. 
+
 •	Preguntar a una IA cuando me atascaba. La usé para entender los errores, no para que hiciera el trabajo por mí. Preguntar «¿por qué falla esto?» y recibir una explicación en un lenguaje que entendía me destrabó varias veces.
 
 ## **Qué me llevo de esta etapa**
