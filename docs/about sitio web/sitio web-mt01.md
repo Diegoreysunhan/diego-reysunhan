@@ -51,7 +51,11 @@ No lo saqué adelante solo, y creo que vale la pena decirlo:
 
 ## **Qué me llevo de esta etapa**
 El resultado visible es pequeño: un sitio web con unas cuantas páginas. El resultado real es otro. Pasé de no saber qué era un repositorio a tener un flujo de trabajo que puedo repetir, y a entender por qué existe. Fueron más errores que aciertos, y hubo frustración de verdad, pero cada error resuelto dejó algo que ya no tengo que volver a preguntar.
+
 Lo que sigue pendiente, y lo anoto para volver sobre ello:
+
 •	Subir imágenes con soltura, sin tener que consultar la sintaxis cada vez
+
 •	Entender mejor qué hace exactamente el archivo mkdocs.yml
+
 •	Reducir el peso de las fotos antes de subirlas, para no inflar el repositorio
