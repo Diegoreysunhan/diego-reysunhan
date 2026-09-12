@@ -27,7 +27,7 @@ Después de repetirlo muchas veces, el ciclo se me quedó grabado así:
 4.	Commit: guardar esa versión en mi computadora
 5.	Push: subirla a GitHub, donde se publica el sitio
 
-![WEB](images/hola/web.png){ width="300" style="display: block; margin: auto" }
+![Mi sitio web publicado en el navegador](../images/MT01/web.png){ width="300" style="display: block; margin: auto" }
 
 Lo que no estaba escrito en ningún lado, y que a mí me costó descubrir, es que el paso 3 no es opcional. Si le doy Commit sin escribir el mensaje, el programa se queda cargando indefinidamente. No es que esté fallando: está esperando a que yo escriba algo. Me pasó y estuve un buen rato pensando que se había roto.
 
@@ -35,6 +35,8 @@ Lo que no estaba escrito en ningún lado, y que a mí me costó descubrir, es qu
 Prefiero dejarlos escritos porque son la parte más real del proceso y porque probablemente los vuelva a cometer.
 
 El commit que se queda cargando. Como conté arriba, era la caja del mensaje vacía. La solución fue escribir el mensaje antes de darle al botón.
+
+![Mi sitio web publicado en el navegador](../images/MT01/cargando.png){ width="300" style="display: block; margin: auto" }
 
 La imagen que no se ve. Escribí lo que creía que era la instrucción correcta para insertar una foto y en la web no aparecía nada. El problema estaba en la ruta: mi archivo y mi carpeta de imágenes estaban en el mismo lugar, así que el «../» que había puesto mandaba la búsqueda a un directorio que no existía.
 
