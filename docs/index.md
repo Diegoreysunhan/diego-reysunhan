@@ -6,4 +6,4 @@ Soy diseñador estratégico y un apasionado del uso de la creatividad para const
 
 En los últimos años, he orientado mi crecimiento personal y profesional hacia la regeneración, el pensamiento sistémico y la creatividad.
 
-![](../images/hola/casa.jpeg){ width="350" style="display: block; margin:auto"}
+![](../images/hola/casa.jpeg){width="350" style="display: block; margin:auto"}
